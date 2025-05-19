@@ -1,0 +1,9 @@
+transformers
+torch
+spacy
+nltk
+phonetics
+requests
+rouge-score
+datasets
+wikiextractor
