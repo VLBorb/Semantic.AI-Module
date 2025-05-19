@@ -1,3 +1,16 @@
+#codex/add-requirements-txt-with-dependencies
+# Semantic.AI-Module
+
+Semantic-AI: Grammatical Semantics Extension Module. This module extends the core Semantic-AI system with a Grammatical Semantics Layer (GSL) that enables syntactic coherence across generated sequences.
+
+## Installation
+
+Install the required Python packages before using the module:
+
+```bash
+pip install -r requirements.txt
+```
+
 # Semantic AI with Llama 2: A Cognitive Architecture
 
 This project implements a novel semantic artificial intelligence (AI) system that combines the power of large language models (LLMs), specifically Llama 2, with a structured semantic representation. The goal is to create an AI capable of more controlled, coherent, and explainable text processing and generation.
@@ -91,3 +104,4 @@ The system supports two execution modes:
 ## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+
