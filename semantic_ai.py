@@ -1,4 +1,3 @@
-==
 # Unified Semantic-AI-Epistemic with GSL Integration (Refined)
 # Optimized for Server Deployment (Run in INFERENCE mode)
 # Separate TRAIN mode for data prep and model training.
