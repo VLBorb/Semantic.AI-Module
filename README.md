@@ -1,5 +1,6 @@
 #codex/add-requirements-txt-with-dependencies
 # Semantic.AI-Module
+# By. V. Lucian Borbeleac
 codex/set-up-semantic-ai-system-configuration
 
 This project provides a semantic and grammatical layer around GPT-2. It supports two execution modes:
